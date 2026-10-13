@@ -9,4 +9,8 @@ __pycache__/
 __MACOSX/
 .DS_Store
 .env
+<<<<<<< Updated upstream
 print("hello from CST-1510")
+=======
+print("hello from CST-1510")
+>>>>>>> Stashed changes
