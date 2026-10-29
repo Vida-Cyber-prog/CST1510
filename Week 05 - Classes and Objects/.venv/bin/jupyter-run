@@ -1,0 +1,9 @@
+#!/bin/sh
+'''exec' "/Users/vidasaccount/Desktop/CST1510/Week 05 - Classes and Objects/.venv/bin/python" "$0" "$@"
+' '''
+import sys
+from jupyter_client.runapp import RunApp
+if __name__ == '__main__':
+    if sys.argv[0].endswith('.exe'):
+        sys.argv[0] = sys.argv[0][:-4]
+    sys.exit(RunApp.launch_instance())
