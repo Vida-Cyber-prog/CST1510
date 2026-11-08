@@ -1,0 +1,11 @@
+Hostname,Region,Used,Total
+srv_01,east,87,100
+srv_02,east,470,500
+srv_03,west,100,120
+srv_04,west,90,200
+srv_05,north,200,300
+srv_06,east,45,250
+srv_07,west,67,150
+srv_08,north,97,360
+srv_09,east,100,300
+srv_10,north,70,130

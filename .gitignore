@@ -1,6 +1,5 @@
 # Learning material: only each week's LAB folder is uploaded
-Week */*
-!Week */LAB/
+
 
 # Files that should never be uploaded
 .venv/
@@ -9,8 +8,4 @@ __pycache__/
 __MACOSX/
 .DS_Store
 .env
-<<<<<<< Updated upstream
-print("hello from CST-1510")
-=======
-print("hello from CST-1510")
->>>>>>> Stashed changes
+ 
