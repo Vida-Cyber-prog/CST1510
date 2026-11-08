@@ -1,0 +1,4 @@
+hostname,used,total,percent,status
+srv_01,87,100,87.0,OK
+srv_02,470,500,94.0,WARNING
+srv_03,100,120,83.33333333333334,OK
