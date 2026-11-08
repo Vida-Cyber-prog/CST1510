@@ -3,6 +3,7 @@
 
 # Files that should never be uploaded
 .venv/
+.venv-1/
 __pycache__/
 .ipynb_checkpoints/
 __MACOSX/

@@ -13,21 +13,6 @@ Delete these instructions as you replace them with your code.
 """
 
 
-label = input ("Enter a label:")      # replace with an input() call
-value = float(input ("Enter a value"))  # replace with an input() call, converted with float()
-limit = float(input ("Enter a limit"))    # replace with an input() call, converted with float()
-
-
-if percent >= 100:
-    status="OVER LIMIT"
-elif percent >= 90:
-    status="WARNING"
-else:
-    status="OK"
-print(status)
-
-
-
 over_count = 0
 while True:
     label = input ("Enter a label:")  
